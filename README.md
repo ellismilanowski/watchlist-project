@@ -30,5 +30,5 @@ The initial version of the application will focus on organizing movie suggestion
 * draw.io
 
 ## Project Documentation
-* [System Diagram] ()
-* [Matrix] ()
+* [System Diagram](https://github.com/ellismilanowski/watchlist-project/blob/main/System%20Diagram.drawio.png)
+* [Matrix](https://github.com/ellismilanowski/watchlist-project/blob/main/Untitled%20document-2.pdf)
